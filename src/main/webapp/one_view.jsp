@@ -10,7 +10,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>User : Single Jobs</title>
+<title>User : View More</title>
 <%@include file="all_component/all_css.jsp"%>
 </head>
 <body>
