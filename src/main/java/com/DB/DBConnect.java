@@ -14,7 +14,7 @@ public class DBConnect {
 			if(conn==null)
 			{
 				Class.forName("com.mysql.cj.jdbc.Driver");
-				conn=DriverManager.getConnection("jdbc:mysql://localhost:3306/job_portal","root","");
+				conn=DriverManager.getConnection("jdbc:mysql://localhost:3306/job_portal","root"," ");
 			}
 			
 		}catch(Exception e) {
