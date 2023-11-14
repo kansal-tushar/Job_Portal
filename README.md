@@ -1,5 +1,5 @@
 # Job_Portal
-This is a web-based project in Java using Servlets, JSP and MySQL for an online job portal. It allows users to search for online jobs efficiently.
+This is a web-based project in Java using Servlets, JSP and MySQL for an online job portal. It allows users to search for online jobs efficiently. 
 
 ## Features
 
